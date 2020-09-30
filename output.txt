@@ -1,0 +1,26 @@
+The sorted array of strings is as follows: 
+Act
+cat
+Computer science
+cuddle
+duck
+Hey there!
+I am Lord Voldemort
+Leonardo da Vinci! The Mona Lisa!
+O, Draconian devil! Oh, lame saint!
+Old Immortal dovers
+Software engineering
+tac
+Tom Marvolo Riddle
+UCD
+
+These are the anagrams that were found in the array:
+Anagram 1: 'Act' 'cat' 'tac' 
+Anagram 2: 'I am Lord Voldemort' 'Tom Marvolo Riddle' 
+Anagram 3: 'O, Draconian devil! Oh, lame saint!' 'Leonardo da Vinci! The Mona Lisa!' 
+
+The missing anagrams found in the array are as follows: 
+'cuddle' is an anagram of 'UCD' if 3 characters were to be removed
+'duck' is an anagram of 'UCD' if 1 character was to be removed
+'Old Immortal dovers' is an anagram of 'I am Lord Voldemort' if 1 character was to be removed
+'Old Immortal dovers' is an anagram of 'Tom Marvolo Riddle' if 1 character was to be removed
